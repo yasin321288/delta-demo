@@ -1,2 +1,2 @@
 # delta-demo
-work related to web development  
+this is a demo for git and github.
